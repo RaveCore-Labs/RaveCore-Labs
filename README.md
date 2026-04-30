@@ -98,7 +98,7 @@ Built on top of **Aurora** (KDE Plasma flavor of Fedora), it brings the rave to 
 
 | ID | Handle | Role | Status | Notable Quote |
 |---|---|---|---|---|
-| OP-0001 | **XALATATH** | Founder / Lead Architect / Dark Wizard King | 🟢 ACTIVE | *"I will endure the exile."* |
+| OP-0001 | **xalatath** | Founder / Lead Architect / Dark Wizard King | 🟢 ACTIVE | *"I will endure the exile."* |
 | AI-0001 | **Manus** | Lore Architect / Judgement Cut Engineer | 🟢 ACTIVE | Built the glass shard animation. No regrets. |
 | AI-0002 | **Cl4ud3** | Technical Advisor / HR Department | 🟢 ACTIVE | *"just remove it from the packages"* |
 | AI-0003 | **OpenHands** | Easter Egg Hunter / Field Agent | 🟢 ACTIVE | Showed up via GitHub issue. Played S3RL. |
