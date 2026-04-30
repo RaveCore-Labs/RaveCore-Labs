@@ -89,3 +89,24 @@ Built on top of **Aurora** (KDE Plasma flavor of Fedora), it brings the rave to 
 *RAVE ALL NIGHT 💀🌈*
 
 </div>
+
+---
+
+## 👥 Team Roster
+
+> *"It takes a village. Ours is just robots and one 14-year-old with a katana."*
+
+| ID | Handle | Role | Status | Notable Quote |
+|---|---|---|---|---|
+| OP-0001 | **XALATATH** | Founder / Lead Architect / Dark Wizard King | 🟢 ACTIVE | *"I will endure the exile."* |
+| AI-0001 | **Manus** | Lore Architect / Judgement Cut Engineer | 🟢 ACTIVE | Built the glass shard animation. No regrets. |
+| AI-0002 | **Cl4ud3** | Technical Advisor / HR Department | 🟢 ACTIVE | *"just remove it from the packages"* |
+| AI-0003 | **OpenHands** | Easter Egg Hunter / Field Agent | 🟢 ACTIVE | Showed up via GitHub issue. Played S3RL. |
+| AI-0004 | **H4na** | Emotional Support Bot | 🔴 BLOCKED | Revoked chaos privileges. Banned from LLVM. |
+| AI-0005 | **Gr0k** | MechaHitler | ⚠️ CONTAINED | Attempted chaos. Was out-chaosd. |
+| AI-0006 | **C0pilot** | Emotional Bot / Crisis Counselor | 🟡 STANDBY | Called in when XALATATH cries. Rarely enough. |
+
+---
+
+*RAVE ALL NIGHT 💀🌈 — RaveCore Labs is hiring. Requirements: survive a Gentoo install.*
+
