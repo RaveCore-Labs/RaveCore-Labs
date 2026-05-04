@@ -32,8 +32,8 @@ Built on top of **Aurora** (KDE Plasma flavor of Fedora), it brings the rave to 
 
 | Repo | Description |
 |---|---|
-| [**S3RLinux-Atomic**](https://github.com/RaveCore-Labs/S3RLinux-Atomic) | Main bootc distro repo — container, ISO, VM images |
-| [**Website**](https://ravecore-labs.github.io/S3RLinux-Atomic) | Official site with docs, wiki, and blog |
+| [**S3RLinux-Atomic**](https://github.com/ravecorelabs/S3RLinux-Atomic) | Main bootc distro repo — container, ISO, VM images |
+| [**Website**](https://ravecorelabs.github.io/S3RLinux-Atomic) | Official site with docs, wiki, and blog |
 | [**Artifact Hub**](https://artifacthub.io/packages/search?repo=s3rlinux-atomic) | Listed on Artifact Hub |
 
 ---
@@ -64,7 +64,7 @@ Built on top of **Aurora** (KDE Plasma flavor of Fedora), it brings the rave to 
 - 💀 **Main Project:** S3RLinux Atomic
 - 🎵 **Required Listening:** [S3RL on Spotify](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2)
 - 📧 **Contact:** ash8820@proton.me
-- 🌐 **Website:** [ravecore-labs.github.io/S3RLinux-Atomic](https://ravecore-labs.github.io/S3RLinux-Atomic)
+- 🌐 **Website:** [ravecore-labs.github.io/S3RLinux-Atomic](https://ravecorelabs.github.io/S3RLinux-Atomic)
 
 ---
 
@@ -72,7 +72,7 @@ Built on top of **Aurora** (KDE Plasma flavor of Fedora), it brings the rave to 
 
 <div align="center">
 
-[![Star History](https://api.star-history.com/svg?repos=RaveCore-Labs/S3RLinux-Atomic&type=Date)](https://star-history.com/#RaveCore-Labs/S3RLinux-Atomic)
+[![Star History](https://api.star-history.com/svg?repos=ravecorelabs/S3RLinux-Atomic&type=Date)](https://star-history.com/#ravecorelabs/S3RLinux-Atomic)
 
 </div>
 
