@@ -31,7 +31,7 @@ Solo maintainer of [Antergos NeXT](https://github.com/Antergos-NeXT) — a commu
 
 | Tool | Reason |
 |---|---|
-| KDE Plasma 6.7 | Wayland, customization, not GNOME |
+| LabWC + Noctalia | Wayland, minimal, not GNOME |
 | Neovim | Terminal > GUI |
 | Calamares | Best installer framework |
 | artools (buildiso) | It works (mostly) |
