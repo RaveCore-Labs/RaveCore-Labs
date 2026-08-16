@@ -2,7 +2,7 @@
 
 *Poland • Linux*
 
-Solo maintainer of [Antergos NeXT](https://github.com/Antergos-NeXT) — a community revival/continuation (not the original) of the Antergos distro, built on Artix Linux with dinit and KDE Plasma and many more.
+Solo maintainer of [Antergos NeXT](https://github.com/Antergos-NeXT) — a technical successor to the Antergos distro, built on Artix Linux with dinit and KDE Plasma and many more.
 
 [PGP Key](publickey.asc)
 
