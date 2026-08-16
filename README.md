@@ -13,9 +13,8 @@ Solo maintainer of [Antergos NeXT](https://github.com/Antergos-NeXT) — a commu
 - First Linux experience in 2023 with Pop!_OS
 - Fell down the rabbit hole, ended up maintaining a distro (i maintained many more than Antergos NeXT)
 - Polish, speak English too
-- Go by Celestia online, Michał in real life (but i prefer someone to call me by my real name)
 - Build ISOs on an MSI GV72 8RE, main PC is a Ryzen 5 7600X + RTX 3060
-- Used Gentoo BTW (now i use Artix Linux)
+- Gentoo User
 
 ## Now Playing
 
@@ -31,10 +30,10 @@ Solo maintainer of [Antergos NeXT](https://github.com/Antergos-NeXT) — a commu
 
 | Tool | Reason |
 |---|---|
-| LabWC + Noctalia | Wayland, minimal, not GNOME |
+| KDE Plasma 6.6.6 | Wayland, cursed, not GNOME |
 | Neovim | Terminal > GUI |
 | Calamares | Best installer framework |
-| artools (buildiso) | It works (mostly) |
+| artools (buildiso using a container)| It works (mostly in Podman) |
 | Ryzen 5 7600X | 12 threads, 5.65 GHz, zero chill (survived compiling too) |
 
 ## Projects
