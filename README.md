@@ -2,7 +2,7 @@
 
 *Poland • Linux*
 
-Solo maintainer of [Antergos NeXT](https://github.com/Antergos-NeXT) — a technical successor to the Antergos distro, built on Artix Linux with dinit and KDE Plasma and many more.
+Solo maintainer of [Euri Linux](https://github.com/Euri-Linux) — built on Artix Linux with dinit and KDE Plasma and many more.
 
 [PGP Key](publickey.asc)
 
@@ -11,7 +11,7 @@ Solo maintainer of [Antergos NeXT](https://github.com/Antergos-NeXT) — a techn
 ## About
 
 - First Linux experience in 2023 with Pop!_OS
-- Fell down the rabbit hole, ended up maintaining a distro (i maintained many more than Antergos NeXT)
+- Fell down the rabbit hole, ended up maintaining a distro (i maintained many more than Euri)
 - Polish, speak English too
 - Build ISOs on an MSI GV72 8RE, main PC is a Ryzen 5 7600X + RTX 3060
 - Gentoo User
@@ -53,7 +53,7 @@ Yeah. Like, *actually* use Gentoo. I went Gentoo → Artix → back to Gentoo �
 <details>
 <summary>❓ What are you working on right now?</summary>
 
-Shipping Antergos NeXT ISOs that don't break, tweaking the Calamares installer (online netinstall only, offline mode is a lie), and keeping the Polish Linux community fed. Also fighting the eternal battle of "why is this font rendering as boxes." It's the CJK fonts. It's always the CJK fonts.
+Shipping Euri Linux ISOs that don't break, tweaking the Calamares installer (online netinstall only, offline mode is a lie), and keeping the Polish Linux community fed. Also fighting the eternal battle of "why is this font rendering as boxes." It's the CJK fonts. It's always the CJK fonts.
 
 </details>
 
@@ -69,6 +69,11 @@ Because terminals are better than GUIs and I will die on this hill. Calamares, a
 
 No. But I can make it take longer to boot. That's a different skill set, but it's still a skill set. 😌
 
+</details>
+
+<details>
+<summary>❓ Do you maintain other versions of Euri?</summary>
+Actually...yea i do its called Euri Linux: Horizon an distro that i built myself without any base that means my own tooling, libc, etc it uses the XBPS Package Manager from Void Linux and my own version of void-packages.
 </details>
 
 ## Current Focus
@@ -91,9 +96,9 @@ No. But I can make it take longer to boot. That's a different skill set, but it'
 
 | Repo | Description |
 |---|---|
-| [antergos-iso](https://github.com/Antergos-NeXT/antergos-iso) | Live ISO — Artix, dinit, KDE Plasma, Calamares |
-| [antergos-packages](https://github.com/Antergos-NeXT/antergos-packages) | Custom package repo |
-| [solara](https://github.com/celestia-foundation/solara) | Linux distro (before Antergos NeXT & not maintained.... kinda) |
+| [euri-iso](https://github.com/Euri-Linux/euri-iso) | Live ISO — Artix, dinit, KDE Plasma, Calamares |
+| [euri-packages](https://github.com/Antergos-NeXT/euri-packages) | Custom package repo |
+| [solara](https://github.com/celestia-foundation/solara) | Linux distro (before Euri Linux & not maintained.... kinda) |
 | [solara-pkgs](https://github.com/celestia-foundation/solara-pkgs) | AUR packages for Solara (not maintained) |
 
 ## Contact
